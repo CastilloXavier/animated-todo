@@ -8,6 +8,8 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
+*.lock
+remote/
 web-build/
 
 # macOS
